@@ -1,0 +1,232 @@
+---
+title: "Jimena Saucedo Miranda"
+author: J S
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Jimena Saucedo Miranda](https://avatars.githubusercontent.com/u/15614501?s=400&u=a939a01fe49629da4683b2d93fb7113b548a4265&v=4){width=80%}
+
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> saucedo@agro.uba.ar
+- <i class="fa fa-github"></i> [github.com/jimesauce](https://github.com/jimesauce)
+- <i class="fab fa-linkedin-in"></i> [Linkedin](https://ar.linkedin.com/in/jimenasaucedo)
+- <i class="fa fa-phone"></i> +54 911 3760 0402
+
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Análisis exploratorio, procesamiento y análisis estadístico de datos
+
+- R, markdown (nivel experta) 
+
+- Qgis (nivel profesional)
+
+- Python (nivel usuaria intermedia)
+
+
+
+Actualizado en `r Sys.Date()`.
+
+Objetivos {#objetives}
+--------------------------------------------------------------------------------
+**Trabajar** en temas ambientales de manera de contribuir a la conservación del planeta
+y la vida. 
+**Generar** información que aporte en la toma de decisiones.  
+**Trabajar** en redes.
+
+
+Main
+================================================================================
+
+Jimena Saucedo Miranda {#title}
+--------------------------------------------------------------------------------
+
+## Licenciada en Ciencias Ambientales
+
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------  
+
+### Universidad de Buenos Aires. Facultad de Agronomía. 
+
+Licenciatura en Ciencias Ambientales  
+
+Buenos Aires  
+
+2010 - 2018
+
+
+
+
+Experiencia profesional {data-icon=suitcase}
+---------------------------------------------------------------------------------------------------
+
+### Dirección Nacional de Bosques – PROYECTO PNUD ARG 20/01. Ministerio de Ambiente y Desarrollo Sostenible 
+Consultora especialista en procesamiento y análisis estadístico de datos
+Inventario Nacional de Bosques Nativos.  
+
+Buenos Aires  
+
+2020 - Actualidad
+
+### Escuela Argentina de Nuevas Tecnologías (EANT)
+
+Instructora en Data Analytics. Curso análisis de datos con R. 
+
+Buenos Aires   
+  
+2020
+
+### R Consortium - R Ladies Global 
+Organizadora e instructora de R-Ladies Buenos Aires (actividad sin fines de lucro que promueve la inserción 
+de minorías de género sub-representadas en la comunidad R).   
+
+Buenos Aires   
+
+2018 - Actualidad 
+
+### Dirección Nacional de Bosques - FAO. Programa Nacional ONU-REDD Argentina 
+Procesamiento y Análisis de datos del Inventario Nacional de Bosques Nativos de la Argentina (INBN2).  
+
+Buenos Aires   
+
+Abril 2018 - Diciembre 2019
+
+### Agua y Saneamientos Argentina (AySA) 
+Asistente de Coordinación del Plan de Abordaje Territorial dentro del Convenio Marco de Asistencia Técnica 
+y Capacitación entre Agua y Saneamientos Argentinos S.A. y la Universidad de Buenos Aires.  
+
+Buenos Aires   
+
+Junio 2016 - Agosto 2017  
+
+### Cátedra de Métodos Cuantitativos Aplicados y Sistemas de Información. Facultad de Agronomía, U.B.A.  
+Docente auxiliar (Ayudante de segunda Ad-honorem). Materias: Modelos de Simulación, Modelos Estadísticos.   
+
+Buenos Aires   
+
+Julio 2014 - Octubre 2018  
+
+### Asociación Argentina de Médicos por el Medio Ambiente  
+Responsable de la logística de muestreos ambientales en la carrera de posgrado de “Salud y ambiente” 
+dictada por la institución. Responsabilidades: coordinación de equipo de trabajo para la organización de 
+visitas de campo y muestreo de sitios contaminados.  
+
+Buenos Aires
+
+2011 - 2016  
+
+### Blacksmith Institute: Solving pollution problems, saving lives (Pure Health)  
+Investigación, muestreo y evaluación de sitios contaminados en el marco el Proyecto “Toxic Sites
+Identification Program”. Registro de datos para completar el inventario global de la contaminación 
+y sus efectos sobre la salud, evaluación y posible remediación.  
+
+CABA, Buenos Aires, Santa Fe    
+
+Diciembre 2011 - Diciembre 2014 
+
+### Otros  
+Sommelier profesional, mâitre, encargado de la gestión de compras y coordinador de la
+actividad del salón y organización de eventos en diversos restaurantes y bodegas.  
+
+Argentina; Uruguay; México    
+
+1999 - 2010
+
+Cursos y capacitaciones {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+1. Argentina Programa – Primer módulo. En curso 2021.
+1. Análisis Espacial y situación de riesgo (teledetección). Instituto Gulich. CONAE. 2020.
+1. Organización de datos. Materia de la carrera de Ingeniería en sistemas FIUBA.
+1. Introducción a SQL. EANT. 2019.
+1. Programa Data Scientist (132 horas). Escuela Argentina de Nuevas Tecnologías. 2018/2019.
+1. Taller de capacitación sobre automatización de monitoreo de deforestación en Argentina
+Google Earth Engine. FAO. 2018.
+1. “Big Data and Environment”. University of Reading online.2017.
+1. “Introduction to Remote Sensing for Scenario-Based Ecoforecasting”. Applied Remote Sensing
+Training. NASA onlline. 2017.
+1. “Introducción al SIG y sus aplicaciones en la conservación de la biodiversidad”. Fundación
+Caburéí. Agosto 2016.
+1. “Introducción al Lenguaje y Ambiente de Análisis de Datos R”. SADIO. Abril 2016.
+1. “Herramientas de teledetección cuantitativa”. CONAE. Septiembre/diciembre 2015.
+1. “Introducción a la teledetección”. CONAE. Mayo/junio 2015.
+1. Sistemas de Información Geográfica Nivel I. Centro Cultural Rojas. Febrero/marzo 2014.
+1. Participación en Primera Reunión Nacional de Consulta: Proyecto del Fondo para el Medio
+Ambiente (FMAM), Implementación del Convenio de Minamata, en el marco del Programa de
+las Naciones Unidas para el Medio Ambiente (PNUMA) sobre Mercurio en Argentina. 2014.
+1. Seminario de Introducción a la ecología política. FAUBA - 2012.
+1. Seminario de Buenas Prácticas Agrícolas. FAUBA - 2011.
+1. Título de Sommelier Professional. Centro Argentino de Vinos y Espirituosas. 2006.  
+
+
+Congresos, charlas, ponencias{data-icon=book}
+--------------------------------------------------------------------------------  
+
+1. Cuchietti, A.; **Saucedo Miranda, J. M.** ; Rost, E. I.; García, S. H.; Quarleri, S. & Bono, J. Segundo Inventario Nacional de Bosques Nativos (INBN2): generalidades, primeros resultados y complementariedad con la RAPP. Exposición oral. XXIX Reunión Argentina de Ecología, 4 al 6 de
+Agosto de 2021, Tucumán, Argentina.
+1. Taller “Introduction to R using Tidyverse”. First Congress of Women in Bioinformatics and Data
+Science LA. Septiembre 2020.
+1. Taller “Primeros pasos en R Markdown”. R Ladies Buenos Aires. Abril 2020.
+1. Cipriotti, P.A.; **Saucedo Miranda J. M.**; Irisarri G.J.N. y Collantes, M.B. 2017. "Experiencias UBA en relación al monitoreo de coberturas terrestres en Tierra del Fuego". Conferencia en el Seminario Binacional
+Chile-Argentina "Experiencias en el marco del monitoreo de coberturas terrestres en la Isla
+Grande de Tierra del Fuego". 17-21 octubre de 2017, Punta Arenas, Región de Magallanes y
+Antártica Chilena, Rep. de Chile.
+1. Congreso RAE 2016. Presentación de poster “Estimación de la PPNA en mallines de la Estepa
+Fueguina mediante información satelital”. Saucedo J.; Cipriotti, P.A.; Irisarri G.J.N. y Collantes,
+M.B. 2016.
+1. Congreso RAE 2012. Presentación de poster “Descripción de la evolución de desmontes en la
+región del Chaco sudamericano.”   
+
+Premios {data-icon=award}
+--------------------------------------------------------------------------------
+
+1. Mejor promedio promoción de agosto 2018 de la Licenciatura en Ciencias Ambientales. Facultad
+de Agronomía, Universidad de Buenos Aires.
+
+Proyectos de investigación {data-icon=book-open}
+-------------------------------------------------------------------------------- 
+
+1. Ceballos, S. J.; Blundo, C.; Malizia, A.; Osinaga Acosta, O.; Carilla, J.; H. Grau, R.; Campanello, P.
+I.; Cuchietti, A.; Gasparri, I.; Gatti, M. G.; Loto, D; Martínez Pastur, G.; **Saucedo Miranda, J. M.** ;
+Amoroso, M.; Andino, N.; Arpigiani, D.; Aschero, V.; Barberis, I. M.; Bedrij, N. A.; Nicora Chequin,
+R.; Chillo, V.; Eibl, B.; Eliano, P.; Fernandez, R. D.; Garibaldi, L. A.; Giannoni, S.; Goldenberg, M.
+G.; Gonzalez Peñalba, M.; Jimenez, Y. G.; Kees, S.; Klekailo, G. N.; Lara, M.; Mac Donagh, P.;
+Malizia, L. R.; Mazzini, F.; Medina, W. A.; Oddi, F. J.; Paredes, D.; Peri, P. L.; Persini, C.; Prado, D.
+E.; Salas, R. M.; Srur, A.; Villagra, M.; Zelaya, P.; Villagra, P. E. (2021). RAPP: Una red de parcelas
+permanentes para promover colaboraciones científicas orientadas a entender la dinámica de los
+bosques nativos de Argentina. En revisión Ecología Austral.  
+1. Participación en la redacción del Proyecto de Ley Nacional de Etiquetado de Alimentos. 2016.
+1. Colaboración con el grupo “Médicos de Pueblos Fumigados” Rosario. Dictado de capacitaciones en SIG. 2016.  
+1. Participación Proyecto UBACyT “Dinámica de largo plazo de la productividad primaria neta aérea
+en la Patagonia Extra Andina. Su relación con controles ambientales.” 2016.  
+1. Viaje de Intensificación: Sistemas productivos de agricultores familiares y preservación de los
+recursos naturales - agua y biodiversidad - en el norte de la provincia de Misiones. Octubre 2013.
+1. Participación en Proyecto UBANEX de Extensión Universitaria - FAUBA: “Detección, seguimiento
+y evaluación de impacto de desmontes e incendios a través de herramientas de teledetección y
+SIG en comunidades de pueblos originarios y criollos en la provincia de Salta”. Viaje de fin de
+proyecto Salta 2012. Director: Dr. José Paruelo. 2011/2012. 
+
+Otros {data-icon=puzzle-piece}
+--------------------------------------------------------------------------------
+1. Carnet de conducir vigente
+1. Disponibilidad para viajar
+1. Flexibilidad horaria  
+1. Alta disponibilidad para el trabajo en equipo
+
+
